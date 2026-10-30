@@ -1,0 +1,3 @@
+# Default sponsor button for every public Ragnagrok repo without its own FUNDING.yml.
+# Add `github: sawady` once the GitHub Sponsors profile is published.
+custom: ["https://cafecito.app/sawady"]
