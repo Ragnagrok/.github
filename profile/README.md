@@ -24,4 +24,5 @@ what should be rejected, and fails where the article says it fails.
 Written by [Federico Sawady O'Connor](https://github.com/sawady) at
 [Ragnagrok Academy](https://ragnagrok.com), Córdoba, Argentina. Articles in Spanish and English.
 
-If any of this is useful to you, [buy me a coffee](https://cafecito.app/sawady).
+If any of this is useful to you, you can [sponsor it on GitHub](https://github.com/sponsors/sawady)
+or, from Argentina, [buy me a coffee](https://cafecito.app/sawady).
