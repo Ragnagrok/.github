@@ -9,6 +9,7 @@ what should be rejected, and fails where the article says it fails.
 
 | Repo | Article | Language |
 |---|---|---|
+| [ask-forbid-make-it-impossible](https://github.com/Ragnagrok/ask-forbid-make-it-impossible) | [Ask, Forbid, Make It Impossible](https://blog.ragnagrok.com/en/2026-11-03-pedir-prohibir-hacer-imposible) | Haskell, Python + PostgreSQL |
 | [an-oracle-that-never-ships](https://github.com/Ragnagrok/an-oracle-that-never-ships) | [An Oracle That Never Ships](https://blog.ragnagrok.com/en/2026-10-30-un-oraculo-que-nunca-se-deploya) | Haskell + PHP |
 | [what-you-check-not-what-you-asked-for](https://github.com/Ragnagrok/what-you-check-not-what-you-asked-for) | [What You Check, Not What You Asked For](https://blog.ragnagrok.com/en/2026-10-30-lo-que-chequeas-no-lo-que-pediste) | Haskell |
 | [control-doesnt-go-away-it-concentrates](https://github.com/Ragnagrok/control-doesnt-go-away-it-concentrates) | [Control Doesn't Go Away, It Concentrates](https://blog.ragnagrok.com/en/2026-10-30-no-desaparece-el-control-se-concentra) | PHP |
